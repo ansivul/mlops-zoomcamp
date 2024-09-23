@@ -1,0 +1,2 @@
+*.pkl filter=lfs diff=lfs merge=lfs -text
+02-Experiment-tracking/mlruns/1/1d4125dc449f4b59b054a1fe07282f14/artifacts/model/model.pkl filter=lfs diff=lfs merge=lfs -text
